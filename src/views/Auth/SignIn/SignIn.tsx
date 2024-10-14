@@ -92,7 +92,6 @@ const SignIn = () => {
                       bg-white text-gray-900 shadow-lg 
                       shadow-gray-900/5 ring-4 ring-transparent 
                       placeholder:text-gray-500 placeholder:opacity-100"
-                      autoComplete
                       labelProps={{
                         className: 'hidden',
                       }}
